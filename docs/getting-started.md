@@ -441,5 +441,5 @@ window.addEventListener('beforeunload', () => {
 
 - [Official SDK Documentation](https://modelcontextprotocol.github.io/ext-apps/api/)
 - [MCP Apps Specification](https://github.com/modelcontextprotocol/ext-apps)
-- [Community Examples](https://github.com/zeyutt/awsome-mcp-apps)
+- [Community Examples](https://github.com/zeyutt/awesome-mcp-apps)
 - [MCP-UI Playground](https://mcpui.dev/)
