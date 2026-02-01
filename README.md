@@ -1,5 +1,7 @@
 # Awesome MCP Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+English | [简体中文](README.zh-CN.md)
+
 > A curated list of awesome MCP Apps (Model Context Protocol Apps) - interactive user interfaces for AI assistants
 
 MCP Apps extend the Model Context Protocol to bring rich, interactive UI capabilities directly into AI conversations. Instead of limiting tools to text responses, MCP Apps enable interactive dashboards, forms, visualizations, and more - all rendered securely within the chat interface.
@@ -13,6 +15,7 @@ MCP Apps extend the Model Context Protocol to bring rich, interactive UI capabil
 - [Development Tools](#development-tools)
 - [Tutorials & Guides](#tutorials--guides)
 - [Use Cases](#use-cases)
+- [Documentation](#documentation)
 - [Contributing](#contributing)
 
 ## What are MCP Apps?
@@ -174,6 +177,11 @@ Complex data entry with validation, autocomplete, and dynamic field updates.
 Interactive tutorials, quizzes, and learning experiences.
 
 **Example**: Code playground for learning programming with live execution.
+
+## Documentation
+
+- [Getting Started Guide](docs/getting-started.md) - Complete tutorial for building your first MCP App
+- [FAQ](docs/FAQ.md) - Frequently asked questions about MCP Apps
 
 ## Contributing
 
