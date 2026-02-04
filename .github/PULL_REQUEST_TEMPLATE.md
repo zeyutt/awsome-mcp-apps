@@ -42,7 +42,7 @@
 
 <!-- Mark completed items with an 'x' -->
 
-- [ ] I have read the [contributing guidelines](CONTRIBUTING.md)
+- [ ] I have read the [contributing guidelines](../CONTRIBUTING.md)
 - [ ] My changes follow the repository's style and format
 - [ ] All links are working and point to the correct resources
 - [ ] I have tested my changes (if applicable)

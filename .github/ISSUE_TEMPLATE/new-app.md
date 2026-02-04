@@ -55,7 +55,7 @@ Please confirm the following:
 - [ ] The app provides interactive UI (not just text-based tools)
 - [ ] The repository/website is publicly accessible
 - [ ] The app is functional and maintained
-- [ ] I have read the [contributing guidelines](../CONTRIBUTING.md)
+- [ ] I have read the [contributing guidelines](../../CONTRIBUTING.md)
 
 ## Additional Context
 

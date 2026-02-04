@@ -266,7 +266,7 @@ You can build complex applications, but consider:
 - [Official MCP Discord/Forum](https://modelcontextprotocol.io/)
 - [GitHub Discussions](https://github.com/modelcontextprotocol/ext-apps/discussions)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/mcp-apps)
-- This repository's [Issues](https://github.com/zeyutt/awesome-mcp-apps/issues)
+- This repository's [Issues](https://github.com/zeyutt/awsome-mcp-apps/issues)
 
 ### Can I use MCP Apps commercially?
 
@@ -393,4 +393,4 @@ Check:
 
 ---
 
-Have a question not answered here? [Open an issue](https://github.com/zeyutt/awesome-mcp-apps/issues) or contribute to this FAQ!
+Have a question not answered here? [Open an issue](https://github.com/zeyutt/awsome-mcp-apps/issues) or contribute to this FAQ!
